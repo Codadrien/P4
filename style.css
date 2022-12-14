@@ -676,10 +676,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -724,6 +720,10 @@ h3 {
 
 h1 {
     color: #333333!important;
+}
+
+h3{
+    font-size: 18px;
 }
 
 h4 {
