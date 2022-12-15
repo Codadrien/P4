@@ -785,9 +785,32 @@ h4 {
     color: #F3976C;
 }
 
+.conteneur-fond-blanc{
+    width: 40%;
+}
+
+.footer-text{
+color: black !important;
+}
+
+.fa{
+    color: black !important;
+}
+
+.fa:hover{
+    color: grey !important;
+}
+
+.fond-blanc{
+    background: white;
+    border-radius: 10px;
+    padding: 8px 0;
+    color: #000000;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black !important;
 }
 
 .btn-atomic-tangerine:hover {
